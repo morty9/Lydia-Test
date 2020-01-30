@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Lydia
+
+  Created by Bérangère La Touche on 24/01/2020.
+  Copyright © 2020 Bérangère La Touche. All rights reserved.
+*/
+
+/// LIST CONTROLLER
+"controllers.list_controller.nav_bar_title_list_controller" = "Users";
+
+/// DETAILS CONTROLLER
+"controllers.list_controller.nav_bar_title_details_controller" = "Details";
